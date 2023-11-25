@@ -85,7 +85,7 @@
 //     Console.WriteLine($"Количество чётных чисел в массиве: {countWithoutZeros}");
 // }
 
-// int sizeMass = 15;
+// int sizeMass = 10;
 // int[] mass = FillArray(sizeMass);
 // PrintArray(mass);
 // fevenNumbers(mass);
@@ -137,7 +137,7 @@
 //     Console.WriteLine($"Разница: {difference}");
 // }
 
-// int arrayLength = 11;
+// int arrayLength = 25;
 // double[] myArray = AFAWNZD(arrayLength);
 // PrintArray(myArray);
 // DON(myArray);
